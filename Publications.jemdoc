@@ -1,0 +1,42 @@
+# jemdoc: menu{MENU}{index.html}
+== Publications
+
+
+==== Journal
+. Subodh M. Joshi, Thivin Anandh, Bhanu Teja, Sashikumaar Ganesan, On the Choice of Hyper-parameters of Artificial Neural Networks for Stabilized Finite Element Schemes,
+Accepted for publication, International Journal of Advances in Engineering Sciences and Applied Mathematics, 
+Springer, 2021 
+. M. Sreekumar, S. M. Joshi, Tom V. Mathew & Avijit Chatterjee,  
+A multi-class first order traffic flow model to explain disordered behaviour of vehicles,
+Accepted for publication, Transportmetrica B: Transport Dynamics, Taylor and Francis, 2021.
+. Joshi S. M. and Chatterjee A. A-posteriori diffusion analysis of numerical schemes for application to propagating linear waves. Numerical Methods for Partial Differential Equations, Vol. 37, pp. 2109--2131, 2021.
+[https://doi.org/10.1002/num.22667 (Link)]
+.  A. Chatterjee and S.  Joshi , A p-variable higher-order finite volume time domain method for electromagnetic scattering, Progress In Electromagnetics Research M, Vol.64, pp.147--156, 2018.[http://www.jpier.org/PIERM/pier.php?paper=17110801 (link)]
+. M. Sreekumar, S. M. Joshi, Avijit Chatterjee & Tom V. Mathew, 
+Analyses and implications of higher order finite volume methods on first-order macroscopic traffic flow models, 
+Transportation Letters, Vol.11, Issue 10, 2019 (Published online 2018). 
+[https://www.tandfonline.com/doi/abs/10.1080/19427867.2017.1419843 (DOI: 10.1080/19427867.2017.1419843)]
+. Joshi S. M., Chatterjee A., Higher-order multilevel framework for ADER scheme in 
+computational aeroacoustics, Journal of Computational Physics, Vol.338, pp.388-404, 2017
+[http://www.sciencedirect.com/science/article/pii/S0021999117301651 (link)]
+
+
+
+
+==== Conference
+. Neha Karanjkar and Subodh M. Joshi, “Mixed Discrete-Continuous Simulation for Digital Twins”, (Accepted, SIMULTECH 2021) 
+. Subodh Joshi and Sashikumaar Ganesan, “Sensitivity Analysis of ANNs for Fluid Flow Simulation”, 12th EECS Research Students Symposium (virtual), Indian Institute of Sciences, Bangalore, 7-8 May, 2021.
+. Joshi S. M., Kazolea M. and Ricchiuto M. , “Sensitivity Analysis for Two Wave Breaking Models Used by the Green-Naghdi Equations”, 14th World Congress on Computational Mechanics (WCCM) & ECCOMAS Congress 2020, Virtual Congress, 11-15 January, 2021.
+. Joshi S. M., Chatterjee A., “A-posteriori Diffusion Analysis of Numerical Schemes in Wavenumber Domain”, 20th AeSI
+CFD Symposium, NAL, Bangalore , 09-10 August, 2018.
+. Joshi S. M., Chatterjee A., “Spectral Analysis of Higher-Order Multilevel Method”, 18th AeSI
+CFD Symposium, NAL, Bangalore , 10-11 August, 2016
+. Joshi S. M., Chatterjee A., “Multilevel ADER Scheme for Computational Aeroacoustics”, 9th
+International Conference of Computational Fluid Dynamics, Istanbul-Turkey, 11-15 July, 2016
+. Joshi S. M., Chatterjee A., “Multilevel Spectral Finite Volume Method for Linear Systems”,
+17th AeSI CFD Symposium, NAL, Bangalore , 11-12 August, 2015
+. Chatterjee A., Joshi S. M., “Multilevel Higher Order Method for Simulation of Linear Wave 
+Propagation”, 8th International Conference of Computational Fluid Dynamics, Chengdu-China,
+14-18 July, 2014
+
+
